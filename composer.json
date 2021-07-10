@@ -1,0 +1,14 @@
+{
+    "name": "facu/practica_parcial",
+    "authors": [
+        {
+            "name": "FacundoFalcioni2410",
+            "email": "facundofalcioni2410@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.8",
+        "slim/psr7": "^1.4",
+        "firebase/php-jwt": "^5.4"
+    }
+}
